@@ -3,7 +3,7 @@ package Bundle::Compress::Zlib;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 
@@ -96,8 +96,6 @@ IO::Uncompress::Gunzip
 Compress::Raw::Zlib
 
 IO::Zlib
-
-IO::Compress::Zlib
 
 Compress::Zlib
 

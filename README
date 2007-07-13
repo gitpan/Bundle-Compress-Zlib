@@ -1,4 +1,4 @@
-Bundle-Compress-Zlib version 0.02
+Bundle-Compress-Zlib version 0.03
 =================================
 
 INSTALLATION
@@ -12,11 +12,12 @@ To install this module type the following:
 
 DEPENDENCIES
 
-   none
+This module requires these other modules and libraries:
+
+  none
 
 COPYRIGHT AND LICENSE
 
-Put the correct copyright and licence information here.
 
 Copyright (C) 2007 by Kevin W. Henwood
 
