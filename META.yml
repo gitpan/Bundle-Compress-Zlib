@@ -1,11 +1,13 @@
 --- #YAML:1.0
 name:                Bundle-Compress-Zlib
-version:             0.03
-abstract:            ~
-license:             ~
-generated_by:        ExtUtils::MakeMaker version 6.36
+version:             2.012
+abstract:            Install Compress::Zlib and dependencies
+license:             perl
+author:              
+    - Kevin W. Henwood <Khen1950fx@aol.com> and Paul Marquess <pmqs@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
 meta-spec:
-    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
-    version: 1.2
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
