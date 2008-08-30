@@ -1,5 +1,9 @@
 Revision history for Perl extension Bundle::Compress::Zlib.
 
+2.013   30 August 2008
+
+    * Forgot IO::Compress::Zlib in the list of modules.
+
 2.012   29 August 2008
 
     * Added version numbers & cut down the number of modules to the bare
