@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Bundle-Compress-Zlib
-version:             2.014
+version:             2.015
 abstract:            Install Compress::Zlib and dependencies
 license:             perl
 author:              

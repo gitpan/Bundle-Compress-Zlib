@@ -2,7 +2,7 @@ package Bundle::Compress::Zlib;
 
 use strict;
 
-$Bundle::Compress::Zlib::VERSION = '2.014';
+$Bundle::Compress::Zlib::VERSION = '2.015';
 
 
 1;
@@ -21,15 +21,15 @@ Bundle::Compress::Zlib - Install Compress::Zlib and dependencies
 
 Scalar::Util
 
-Compress::Raw::Zlib 2.014
+Compress::Raw::Zlib 2.015
 
-IO::Compress::Base 2.014
+IO::Compress::Base 2.015
 
-IO::Compress::Gzip 2.014
+IO::Compress::Gzip 2.015
 
-IO::Compress::Gunzip 2.014
+IO::Compress::Gunzip 2.015
 
-Compress::Zlib 2.014
+Compress::Zlib 2.015
 
 =head1 AUTHOR
 
