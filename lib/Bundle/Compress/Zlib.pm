@@ -2,7 +2,7 @@ package Bundle::Compress::Zlib;
 
 use strict;
 
-$Bundle::Compress::Zlib::VERSION = '2.015';
+$Bundle::Compress::Zlib::VERSION = '2.016';
 
 
 1;
@@ -27,7 +27,9 @@ IO::Compress::Base 2.015
 
 IO::Compress::Gzip 2.015
 
-IO::Compress::Gunzip 2.015
+IO::Compress::Gzip::Constants 2.015
+
+IO::Uncompress::Gunzip 2.015
 
 Compress::Zlib 2.015
 
