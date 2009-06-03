@@ -2,7 +2,7 @@ package Bundle::Compress::Zlib;
 
 use strict;
 
-$Bundle::Compress::Zlib::VERSION = '2.019';
+$Bundle::Compress::Zlib::VERSION = '2.020';
 
 1;
 __END__
@@ -19,11 +19,11 @@ Bundle::Compress::Zlib - Install Compress::Zlib and dependencies
 
 Scalar::Util
 
-Compress::Raw::Zlib 2.019
+Compress::Raw::Zlib 2.020
 
-Compress::Raw::Bzip2 2.019
+Compress::Raw::Bzip2 2.020
 
-Compress::Zlib 2.019
+Compress::Zlib 2.020
 
 =head1 AUTHOR
 
