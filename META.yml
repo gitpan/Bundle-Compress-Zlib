@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Bundle-Compress-Zlib
-version:            2.025
+version:            2.026
 abstract:           Install Compress::Zlib and dependencies
 author:
     - Kevin W. Henwood <Khen1950fx@aol.com> and Paul Marquess <pmqs@cpan.org>
